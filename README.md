@@ -26,9 +26,9 @@
      <img src="Qgis_Part03.gif">
    
  8. Then convert the shapefile format data into the CSV file on the google colab by python before feed into the unity, this is what I did before. But you can save the data into csv file format directory on the Qgis, just change the output format .shp to .csv. 
- 
+     <img src="Qgis_Part04.gif">
 
 ###  Unity Part
 * Download the zip file from this github, unzip it. 
 * Open the unzip file on the unity 
-* make sure to change the file paths on all the scrips inside the script folder into the path where you save the output from the Qgis part. (this is read all the data which got from the Qgis part into unity and generate the 3D model) 
+* make sure to change the file paths on all the scrips inside the script folder into the path where you save the output with CSV format from the Qgis part. (this is read all the data which got from the Qgis part into unity and generate the 3D model) 
