@@ -20,7 +20,13 @@
 6. run the @Qgis-final-automatic.py  code on the Qgis 
    
      <img src="Qgis_Part01.gif">
+ 
+ 7. After all the above steps, you will get all the shapefile format data which all within the interested area. 
    
+   <img src="Qgis_Part03.gif">
+   
+ 8. Then convert the shapefile format data into the CSV file on the google colab by python before feed into the unity, this is what I did before. But you can save the data into csv file format directory on the Qgis, just change the output format .shp to .csv. 
+ 
 
 ###  Unity Part
 * Download the zip file from this github, unzip it. 
