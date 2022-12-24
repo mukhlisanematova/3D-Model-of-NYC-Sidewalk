@@ -16,14 +16,14 @@
 3. Download the @Qgis-final-automatic.py 
 4. Open the @Qgis-final-automatic.py on the Qgis
 5. make sure to change each output path to the above folder path on the code and each input path to the path where you save the dataset(which you downloaded from the NYC Open data) on the code. 
-    <img src="Qgis_Part02.gif">
+     <img src="Qgis_Part02.gif">
 6. run the @Qgis-final-automatic.py  code on the Qgis 
    
      <img src="Qgis_Part01.gif">
  
  7. After all the above steps, you will get all the shapefile format data which all within the interested area. 
    
-   <img src="Qgis_Part03.gif">
+     <img src="Qgis_Part03.gif">
    
  8. Then convert the shapefile format data into the CSV file on the google colab by python before feed into the unity, this is what I did before. But you can save the data into csv file format directory on the Qgis, just change the output format .shp to .csv. 
  
