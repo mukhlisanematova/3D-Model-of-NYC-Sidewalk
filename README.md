@@ -1,4 +1,5 @@
-# 3D-Model-of-NYC-Sidewalk - Qgis Part
+## 3D-Model-of-NYC-Sidewalk 
+### Qgis Part
 * Go to the [NYC Open Data](https://opendata.cityofnewyork.us/) website download the below datasets by shapefile format. 
 - 
 
