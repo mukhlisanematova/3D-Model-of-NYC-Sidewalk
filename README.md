@@ -32,3 +32,4 @@
 * Download the zip file from this github, unzip it. 
 * Open the unzip file on the unity 
 * make sure to change the file paths on all the scrips inside the script folder into the path where you save the output with CSV format from the Qgis part. (this is read all the data which got from the Qgis part into unity and generate the 3D model) 
+   - Note: I only put building footprint, pedestrian ramp, tree, hydrant with different audio feedback in this 3D model, you can add as many you want with the similar code. 
