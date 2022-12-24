@@ -16,6 +16,7 @@
 3. Download the @Qgis-final-automatic.py 
 4. Open the @Qgis-final-automatic.py on the Qgis
 5. make sure to change each output path to the above folder path on the code and each input path to the path where you save the dataset(which you downloaded from the NYC Open data) on the code. 
+    <img src="Qgis_Part02.gif">
 6. run the @Qgis-final-automatic.py  code on the Qgis 
    
      <img src="Qgis_Part01.gif">
