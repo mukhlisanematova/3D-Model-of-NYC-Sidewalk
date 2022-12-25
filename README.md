@@ -20,6 +20,8 @@
     <img src="Qgis_Part02.gif">
     
 6. run the @Qgis-final-automatic.py  code on the Qgis 
+   - enter the start address " 138 W 48th St NYC 10036"
+   - enter the end address " 33 W 54th St NYC 10019"
    
      <img src="Qgis_Part01.gif">
  
