@@ -1,8 +1,8 @@
 ## 3D-Model-of-NYC-Sidewalk 
 ### Qgis Part
 1. Go to the [NYC Open Data](https://opendata.cityofnewyork.us/) website download the below datasets by shapefile format. 
-   - building footprint  (download by shapefile format)
-   - sidewalk            (download by shapefile format)
+   - [building footprints](https://data.cityofnewyork.us/Housing-Development/Building-Footprints/nqwf-w8eh)  (download by shapefile format)
+   - [sidewalk](https://data.cityofnewyork.us/City-Government/Sidewalk/vfx9-tbb6)            (download by shapefile format)
    - bus shelter         (download by shapefile format)
    - city bench          (download by csv format)
    - city hydrant        (download by shapefile format)
