@@ -43,4 +43,4 @@
        <img src="Qgis_Part05.gif">
        
 ### some improvments
-    <img src="/path/to/Image01.jpeg" alt="Alt text" title="Optional title">
+    <img src="Image01.jpeg" alt="Alt text" title="Optional title">
