@@ -43,4 +43,5 @@
        <img src="Qgis_Part05.gif">
        
 ### some improvments
-    ![My Image](Image01.jpg)
+* This model is using the Road Center Line as navigation to find the shortest path. It's not able to find the building door location. Check the below image, you can see google map can show where is the door to enter
+     <img src="Image01.gif">
