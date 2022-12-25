@@ -29,7 +29,7 @@
    
      <img src="Qgis_Part03.gif">
    
- 8. Then convert the shapefile format data into the CSV file on the google colab by python before feed into the unity, this is what I did before. But you can save the data into csv file format directory on the Qgis, just change the output format .shp to .csv. 
+ 8. Then convert the shapefile format data into the CSV file on google collab by python before feed into the unity, this is what I did before. But you can save the data into csv file format directly on the Qgis, just change the output format .shp to .csv. 
     
     <img src="Qgis_Part04.gif">
 
@@ -41,3 +41,5 @@
    - Note: The "Testing Code for Unity Part" folder in this repo has the testing data for the unity part. You can test the unity part with those csv data without start the Qgis part first. 
   
        <img src="Qgis_Part05.gif">
+       
+### some improvments
